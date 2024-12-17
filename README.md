@@ -1,1 +1,1 @@
-https://github.com/JoseEmiliano/mi-proyectocf.git
+https://github.com/JoseEmiliano/mi-proyectocf
